@@ -4,7 +4,6 @@
 # i create a funtion to make a matrix  with a list to use for :
 ##1)set a matrix 2)get a matrix 3)set the inversa 4) get the inverse 
 
-## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
